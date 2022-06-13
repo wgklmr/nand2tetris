@@ -1,1 +1,6 @@
 tools/*
+*.out
+*.hack
+*.cmp
+*.tst
+.idea
