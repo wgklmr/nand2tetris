@@ -4,3 +4,4 @@ tools/*
 *.cmp
 *.tst
 .idea
+.gitconfig
